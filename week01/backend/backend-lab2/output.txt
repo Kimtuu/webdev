@@ -1,0 +1,92 @@
+Hostname: KL-LAT5520 
+Platform: linux 
+ CPUs: [
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-1145G7 @ 2.60GHz",
+    "speed": 0,
+    "times": {
+      "user": 50600,
+      "nice": 20,
+      "sys": 56820,
+      "idle": 11448200,
+      "irq": 0
+    }
+  },
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-1145G7 @ 2.60GHz",
+    "speed": 0,
+    "times": {
+      "user": 56380,
+      "nice": 870,
+      "sys": 47550,
+      "idle": 11455530,
+      "irq": 0
+    }
+  },
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-1145G7 @ 2.60GHz",
+    "speed": 0,
+    "times": {
+      "user": 57430,
+      "nice": 20,
+      "sys": 58340,
+      "idle": 11439540,
+      "irq": 0
+    }
+  },
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-1145G7 @ 2.60GHz",
+    "speed": 0,
+    "times": {
+      "user": 48190,
+      "nice": 0,
+      "sys": 42630,
+      "idle": 11479250,
+      "irq": 0
+    }
+  },
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-1145G7 @ 2.60GHz",
+    "speed": 0,
+    "times": {
+      "user": 61880,
+      "nice": 0,
+      "sys": 60730,
+      "idle": 11442730,
+      "irq": 0
+    }
+  },
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-1145G7 @ 2.60GHz",
+    "speed": 0,
+    "times": {
+      "user": 53740,
+      "nice": 0,
+      "sys": 44440,
+      "idle": 11474920,
+      "irq": 0
+    }
+  },
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-1145G7 @ 2.60GHz",
+    "speed": 0,
+    "times": {
+      "user": 69420,
+      "nice": 1300,
+      "sys": 67060,
+      "idle": 11427360,
+      "irq": 0
+    }
+  },
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-1145G7 @ 2.60GHz",
+    "speed": 0,
+    "times": {
+      "user": 45460,
+      "nice": 0,
+      "sys": 36220,
+      "idle": 11491160,
+      "irq": 0
+    }
+  }
+]
