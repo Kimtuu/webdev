@@ -38,5 +38,5 @@
 
 **_Not_** really sure as of yet how to implement these parts to a production unit.
 
-**_But_** got a some what good grasp on how to create a local server that runs the node javascript (locally)
-**_and_** got somewhat familiar with ubuntus bash and how to utilize it to create projects and run git, npm and vsc through it
+**_But_** got a somewhat good grasp on how to create a local server that runs the node javascript (locally)
+**_and_** got somewhat familiar with ubuntus bash and how to utilize it to create projects and run git, npm and vsc through it using wsl.
