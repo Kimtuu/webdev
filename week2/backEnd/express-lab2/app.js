@@ -16,7 +16,15 @@ app.get("/jsonmessage", (req, res) => {
 });
 
 app.get("/htmlmessage", (req, res) => {
-  res.send("<h1>This is a simple html response.</h1>");
+  const htmlContent = `
+  <html>
+    <body>
+      <h1>This is a simple html response.</h1>
+      <p>With a paragraph</p>
+    </body>
+  </html>
+    `;
+  res.send(htmlContent);
 });
 
 app.get("/info", (req, res) => {
