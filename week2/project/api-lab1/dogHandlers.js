@@ -56,6 +56,6 @@ module.exports = {
   getAllDogs,
   getDogById,
   createDog,
-  updateDog,
+  updateDog,  
   deleteDog,
 };
