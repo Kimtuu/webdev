@@ -19,6 +19,7 @@ const getAllDogs = (req, res) => {
 // POST /dogs
 const createDog = (req, res) => {
   const name = req.body.name;
+  console.log(name);
   const newDog = {
     dogId: getNewDogId(),
     name,
