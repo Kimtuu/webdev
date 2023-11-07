@@ -1,28 +1,8 @@
+import PageLinks from "./PageLinks";
 function Footer() {
   return (
     <footer className="section footer">
-      <ul className="footer-links" id="nav-links">
-        <li>
-          <a href="#home" className="footer-link">
-            home
-          </a>
-        </li>
-        <li>
-          <a href="#about" className="footer-link">
-            about
-          </a>
-        </li>
-        <li>
-          <a href="#services" className="footer-link">
-            services
-          </a>
-        </li>
-        <li>
-          <a href="#tours" className="footer-link">
-            tours
-          </a>
-        </li>
-      </ul>
+      <PageLinks parentClass='footer-links' itemClass='footer-link' />
       <ul className="footer-icons">
         <li>
           <a
