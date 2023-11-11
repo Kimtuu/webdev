@@ -1,6 +1,6 @@
 # Reflection Journal week3
 
-## [5.11.2023]
+## [11.11.2023]
 
 ---
 
@@ -8,20 +8,24 @@
 
 Evaluate the performance of each member of your group. **Remember** to **evaluate yourself as well**!
 
-> ### Markus
+> ### Markus 4
 >
-> > -
+> > - Great design of the back end
+> > - Did well to help out in the group programs
 >
-> ### Roope
+> ### Roope 4
 >
-> > - 
+> > - Keeps people updated and also the group together
+> > - Wish had more time to participate in coding as good as
+> >   in planning
 >
-> ### Sami
+> ### Sami 3
 >
-> > - 
+> > - Not really sure on his project part since he hasn't updated his project journal.
 >
-> ### Kim(self)
+> ### Kim(self) 4
 >
+> > - I used the figma template as a rough guideline to creating our landingpages herosection and navbar. These are just the front end and as of yet they have no logic behind them
 > > -
 >
 > End
@@ -32,26 +36,27 @@ Evaluate the performance of each member of your group. **Remember** to **evaluat
 
 ## Challenges Faced:
 
-Challenged by time as i have test leftover from the last courses due to being ill, so had to balance focus between these materials and java materials.
-Strugled a bit with the programming of the creditcard template in the group programming.
+Hopefully i passed the previous classes test and can continue to give my full academic attention to these two courses.
+Personally i feel like i still struggle with the creation of code, i feel like i cant write many lines without some reference of content that already excists.
 
 ### What Went Well and Lessons Learned:
 
-Feel like a could get through the material and do all the required labs well enough.
+Pair programming went well and i really like the interaction part of it even though i might at times struggle with the actual coding part, but with a pair I feel like we are able to hash thing out to a decent form.
 
 - Key Learning:
-  > - REACT projects and how to crete them.
-  > - Postman utilization to test basic CRUD operations on and express server
-  > - SCRUM - INVEST and DEEP methodologies
+  > - React use of midleware to handle res and reqs' mainly we use some error handling midleware and some to concert data to json form.
+  >
+  > - Brief part on the MVC model, but i would still like to see a real life example of a well structured MVC model in web design.
+  > - Learned a bit about pair programming and a little about its use cases.
 
 ### Online Resources:
 
-I've used the online resources provided by the class, and then some other videos about this weeks classes, such ase using figma and trello.
+Watched a lot of youtube videos about creating different react front-end components.
 
 ### Coping Strategies:
+
 - Academic Progress:  
-I did all the assigned homework, but no grades were being assigned.
-I feel like i've not improved much though, just small steps towards MERN stack knowledge.
+  Finally got some needed self reassurance from another classes grade of 4.
 
 - Soft Skills Development:
 
@@ -59,14 +64,14 @@ I feel like i can better allow people to do things their own way and trust thing
 
 ### Project Management:
 
-Agile project management helped better with staying in touch with my teammates and we have a better understanding of whats going on with the group and the project.
+We met a few times and planned what each members was to do, but it would seem like some members are really short on time for this project sadly. hopefully next week we have more time to allocate to the project.
 
 ### Final Thoughts:
 
-This premade text below pretty much sums it up.  
-Looking back on this week's experiences, I'm proud of my efforts in the [Web Course] and [Project Course]. Every challenge presented an opportunity to learn and grow, and I'm excited to continue building my skills and knowledge.
+A decent week, would've like more comm's about our plans for this weeks goals as a group.
 
 ### Next Steps:
- I'll go on to the next week with an open mind.
 
-Week [3]: [5.10.2023]
+Keep on with the classes and try to learn more about how to creat web apps. Also i need to take time to learn how to combine the front and backend with the functionalities of a web app.
+
+Week [3]: [11.11.2023]
