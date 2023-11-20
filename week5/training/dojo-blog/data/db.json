@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Introduction to JSON",
+      "body": "JSON (JavaScript Object Notation) is a lightweight data interchange format.",
+      "author": "John Doe"
+    },
+    {
+      "id": 2,
+      "title": "Working with REST APIs",
+      "body": "REST (Representational State Transfer) is an architectural style for designing networked applications.",
+      "author": "Jane Smith"
+    }
+  ]
+}
