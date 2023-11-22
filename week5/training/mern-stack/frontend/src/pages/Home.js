@@ -19,7 +19,7 @@ function Home() {
       }
     };
     fethWorkouts();
-  }, []);
+  });
 
   return (
     <div className="home">
